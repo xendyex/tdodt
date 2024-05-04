@@ -2,13 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000006;
-    color: #000006;
+    background-color: #000036; /* Dark blue */
+    color: #B0E0E6; /* Very light blue */
 }
 
 header {
     background-color: #6495ED; /* Light blue */
-    color: #000006;
     padding: 20px;
     text-align: center;
 }
@@ -31,7 +30,6 @@ h2 {
 
 footer {
     background-color: #6495ED; /* Light blue */
-    color: #000006;
     padding: 10px;
     text-align: center;
     position: fixed;
